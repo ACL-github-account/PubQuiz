@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">questionário de pub</string>
+
+    <string name="button_true">Verdade</string>
+    <string name="button_false">Falso</string>
+
+    <string name="answer_true">Correct!</string>
+    <string name="answer_false">Faux!</string>
+
+    <string name="score_string">Vous avez - sur 30 corrects!</string>
+    <string name="stars">Étoiles!</string>
+    <string name="well_done">Bien joué!</string>
+    <string name="right"> droit!</string>
+    <string name="thanks">Merci d\'avoir joué à mon quiz!</string>
+
+    <string name="question_1">temp1</string>
+    <string name="question_2">temp2</string>
+    <string name="question_3">temp3</string>
+    <string name="question_4">temp4</string>
+    <string name="question_5">temp5</string>
+    <string name="question_6">temp6</string>
+    <string name="question_7">temp7</string>
+    <string name="question_8">temp8</string>
+    <string name="question_9">temp9</string>
+    <string name="question_10">temp10</string>
+    <string name="question_11">temp11</string>
+    <string name="question_12">temp12</string>
+    <string name="question_13">temp13</string>
+    <string name="question_14">temp14</string>
+    <string name="question_15">temp15</string>
+    <string name="question_16">temp16</string>
+    <string name="question_17">temp17</string>
+    <string name="question_18">temp18</string>
+    <string name="question_19">temp19</string>
+    <string name="question_20">temp20</string>
+    <string name="question_21">temp21</string>
+    <string name="question_22">temp22</string>
+    <string name="question_23">temp23</string>
+    <string name="question_24">temp24</string>
+    <string name="question_25">temp25</string>
+    <string name="question_26">temp26</string>
+    <string name="question_27">temp27</string>
+    <string name="question_28">temp28</string>
+    <string name="question_29">temp29</string>
+    <string name="question_30">temp30</string>
+</resources>
